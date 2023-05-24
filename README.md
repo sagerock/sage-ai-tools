@@ -18,7 +18,7 @@ If there is a better way to do these things, or if you think something I've done
 
 While this code is simple enough, getting it to run was definitely NOT simple for me. 
 
-This is using "Unstructured" to load the files. I wanted this because I would like to be able to load a variety of different files. Currently, Unstructured can load these file types: .txt, .docx, .pptx, .jpg, .png, .eml, .html, and .pdf
+This is using ["Unstructured"](https://blog.langchain.dev/langchain-unstructured/) to load the files. I wanted this because I would like to be able to load a variety of different files. Currently, Unstructured can load these file types: .txt, .docx, .pptx, .jpg, .png, .eml, .html, and .pdf
 
 That's super cool, but getting it all to play nice on your computer is defintely NOT super cool. 
 
