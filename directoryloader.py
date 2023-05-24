@@ -4,7 +4,7 @@ from langchain.document_loaders import DirectoryLoader
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-my_loader = DirectoryLoader('content/sgws')
+my_loader = DirectoryLoader('contentfolder')
 documents = my_loader.load()
 text_splitter = RecursiveCharacterTextSplitter(chunk_size = 1000, chunk_overlap = 200)
 texts = text_splitter.split_documents(documents)
