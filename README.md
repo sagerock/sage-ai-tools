@@ -12,7 +12,7 @@ But I'll add tools I've cobbled together through various tutorials and documenta
 
 This code looks really simple. And it is. But because I'm super new to this all, this took several weeks for me to put together. And it is all thanks to other people that put up videos and blog posts helping all of us to learn this stuff. That's why I'm building this. It's just a way for me to give back in thanks to all the people who helped me.
 
-If there is a better way to do these things, or if you think something I've done is wrong, just let me know in the "Discussions" section. 
+If there is a better way to do these things, or if you think something I've done is wrong, just let me know in the ["Discussions"](https://github.com/sagerock/sage-ai-tools/discussions) section. 
 
 ### It's all behind the scenes.
 
