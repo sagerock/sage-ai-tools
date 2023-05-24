@@ -40,6 +40,6 @@ I think there is value in me offering this content because I'm new to all this s
 
 I'll help when and if I can. I'm not planning on setting up a discord. Maybe it's because I'm old, but I just don't find that text-vomit structure all that helpful. So, I'll probably just stick to this github discussion board. 
 
-I've started (a Youtube Playlist of my LLM Journey here)[https://www.youtube.com/playlist?list=PLFLz8V0zGwuYsJWvS9XaaS4pdrtUGkgsi]
+I've started [a Youtube Playlist of my LLM Journey here](https://www.youtube.com/playlist?list=PLFLz8V0zGwuYsJWvS9XaaS4pdrtUGkgsi)
 
 
