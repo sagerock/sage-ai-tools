@@ -13,9 +13,9 @@ from langchain.vectorstores import Chroma, Pinecone
 from langchain.embeddings.openai import OpenAIEmbeddings
 import pinecone
 
-PINECONE_API_KEY = '7ce8e9e9-fh3-4279-fgsg-562hshsdhd0d5f'
-PINECONE_API_ENV = 'us-west4-gcp'
-OPENAI_API_KEY = 'sk-4kvI8DC2TdggsghskFJKFDGFFDDAHTFHFHGSQryjLEwMjYFrEP1t'
+PINECONE_API_KEY = 'insert-your-pinecone-api-key-here' # put your pinecone api key in here.
+PINECONE_API_ENV = 'us-west4-gcp' # you might have to change this.
+OPENAI_API_KEY = 'sk-put-your-openai-api-key-here' # put your openai api key in here.
 
 embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 
