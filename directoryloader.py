@@ -26,6 +26,6 @@ pinecone.init(
 )
 index_name = "sagerock" # put in the name of your pinecone index here
 
-docsearch = Pinecone.from_texts([t.page_content for t in texts], embeddings, index_name=index_name, namespace="sgws")
+docsearch = Pinecone.from_texts([t.page_content for t in texts], embeddings, index_name=index_name, namespace="happydays")
 
 
