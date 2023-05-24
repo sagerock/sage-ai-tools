@@ -2,11 +2,11 @@
 
 I wanted to start contributing some items that I am using on my LLM journey.
 
-I am interested in taking information from different file types, uploading it to Pinecone Vector Database and then creating a front-end chatbot.
+I am interested in taking information from different file types, uploading it to a Pinecone Vector Database and then creating a front-end chatbot.
 
-The front-end tool I'm using right now is based on [stephansturges/GPTflix](https://github.com/stephansturges/GPTflix). I'll just contribute any information over there. 
+The front-end tool I'm using right now is based on [stephansturges/GPTflix](https://github.com/stephansturges/GPTflix). I'll just contribute any information over there if I have anything to say about that. 
 
-But I'll add tools I've cobbled together. 
+But I'll add tools I've cobbled together through various tutorials and documentation here. 
 
 ## directoryloader.py
 
