@@ -8,7 +8,7 @@ The front-end tool I'm using right now is based on [stephansturges/GPTflix](http
 
 But I'll add tools I've cobbled together through various tutorials and documentation here. 
 
-## directoryloader.py
+## [directoryloader.py](https://github.com/sagerock/sage-ai-tools/blob/main/directoryloader.py)
 
 This code looks really simple. And it is. But because I'm super new to this all, this took several weeks for me to put together. And it is all thanks to other people that put up videos and blog posts helping all of us to learn this stuff. That's why I'm building this. It's just a way for me to give back in thanks to all the people who helped me.
 
